@@ -1,0 +1,7 @@
+D:\GitHub\FTPConnect\FTPConnect\bin\Debug\FTPConnect.exe.config
+D:\GitHub\FTPConnect\FTPConnect\bin\Debug\FTPConnect.exe
+D:\GitHub\FTPConnect\FTPConnect\bin\Debug\FTPConnect.pdb
+D:\GitHub\FTPConnect\FTPConnect\obj\Debug\FTPConnect.csprojAssemblyReference.cache
+D:\GitHub\FTPConnect\FTPConnect\obj\Debug\FTPConnect.csproj.CoreCompileInputs.cache
+D:\GitHub\FTPConnect\FTPConnect\obj\Debug\FTPConnect.exe
+D:\GitHub\FTPConnect\FTPConnect\obj\Debug\FTPConnect.pdb
