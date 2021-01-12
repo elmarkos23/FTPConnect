@@ -5,3 +5,6 @@ D:\GitHub\FTPConnect\FTPConnect\obj\Debug\FTPConnect.csprojAssemblyReference.cac
 D:\GitHub\FTPConnect\FTPConnect\obj\Debug\FTPConnect.csproj.CoreCompileInputs.cache
 D:\GitHub\FTPConnect\FTPConnect\obj\Debug\FTPConnect.exe
 D:\GitHub\FTPConnect\FTPConnect\obj\Debug\FTPConnect.pdb
+D:\GitHub\FTPConnect\FTPConnect\bin\Debug\WinSCP.exe
+D:\GitHub\FTPConnect\FTPConnect\bin\Debug\WinSCPnet.dll
+D:\GitHub\FTPConnect\FTPConnect\obj\Debug\FTPConnect.csproj.CopyComplete
